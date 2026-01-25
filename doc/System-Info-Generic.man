@@ -7,7 +7,7 @@ DESCRIPTION
        Just because it's ugly to have instances of the base class.
 
 COPYRIGHT AND LICENSE
-       (c) 2016-2025, Abe Timmerman & H.Merijn Brand, All rights reserved.
+       (c) 2016-2026, Abe Timmerman & H.Merijn Brand, All rights reserved.
 
        With contributions from Jarkko Hietaniemi, Campo Weijerman, Alan
        Burlison, Allen Smith, Alain Barbet, Dominic Dunlop, Rich Rauenzahn,
@@ -26,4 +26,4 @@ COPYRIGHT AND LICENSE
        WITHOUT ANY WARRANTY; without even the implied warranty of
        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-perl v5.40.1                      2025-01-06             System:...:Generic(3)
+perl v5.42.0                      2026-01-25             System:...:Generic(3)

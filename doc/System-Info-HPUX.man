@@ -8,7 +8,7 @@ DESCRIPTION
        Use os-specific tools to find out more about the system.
 
 COPYRIGHT AND LICENSE
-       (c) 2016-2025, Abe Timmerman & H.Merijn Brand, All rights reserved.
+       (c) 2016-2026, Abe Timmerman & H.Merijn Brand, All rights reserved.
 
        With contributions from Jarkko Hietaniemi, Merijn Brand, Campo
        Weijerman, Alan Burlison, Allen Smith, Alain Barbet, Dominic Dunlop,
@@ -27,4 +27,4 @@ COPYRIGHT AND LICENSE
        WITHOUT ANY WARRANTY; without even the implied warranty of
        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-perl v5.40.1                      2025-01-06             System::Info::HPUX(3)
+perl v5.42.0                      2026-01-25             System::Info::HPUX(3)

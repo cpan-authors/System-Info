@@ -96,14 +96,14 @@ configure_requires:
 configure_recommends:
     ExtUtils::MakeMaker: 7.22
 configure_suggests:
-    ExtUtils::MakeMaker: 7.72
+    ExtUtils::MakeMaker: 7.76
 build_requires:
     perl:                5.008
 test_requires:
     Test::More:          0.88
     Test::Warnings:      0
 test_recommends:
-    Test::More:          1.302209
+    Test::More:          1.302219
 resources:
     license:             http://dev.perl.org/licenses/
     repository:          https://github.com/Tux/System-Info
