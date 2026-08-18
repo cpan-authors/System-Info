@@ -1,5 +1,6 @@
-0.068	- 2026-01-28,  H.Merijn Brand
+0.068	- 2026-08-18,  H.Merijn Brand
     * Add OpenSUSE 16.0
+    * Address two MacOS system_profiler issues (Thanks Sevan for your help)
 
 0.067	- 2026-01-25,  H.Merijn Brand
     * Add Rockylinux-10.0
