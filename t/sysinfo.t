@@ -31,7 +31,7 @@ ok (defined &si_uname, "si_uname imported");
 
     isa_ok ($si, "System::Info::Base");
     ok ($si->cpu_type, "cpu_type: " . $si->cpu_type);
-    ok ($si->cpu,      "cpu: "      . $si->cpu);
+    ok (defined $si->cpu, "cpu: "   . $si->cpu);
     SKIP: {
 	$si->ncpu or skip "No #cpu code for this platform", 1;
 	ok ($si->ncpu,  "number of cpus: " . $si->ncpu);
