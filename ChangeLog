@@ -1,3 +1,7 @@
+0.069	- 2026-08-20,  H.Merijn Brand
+    * Fix for lsb_release info
+    * Increase test coverage (using recent Devel::Cover)
+
 0.068	- 2026-08-19,  H.Merijn Brand
     * Add OpenSUSE 16.0
     * Address two MacOS system_profiler issues (Thanks Sevan for your help)
