@@ -41,7 +41,7 @@ version:                 VERSION
 abstract:                Basic information about the system
 license:                 perl
 author:
-    - H.Merijn Brand <hmbrand@cpan.org>
+    - H.Merijn Brand <perl5@tux.freedom.nl>
     - Abe Timmerman <abeltje@cpan.org>
 generated_by:            Author
 distribution_type:       module
@@ -96,14 +96,14 @@ configure_requires:
 configure_recommends:
     ExtUtils::MakeMaker: 7.22
 configure_suggests:
-    ExtUtils::MakeMaker: 7.76
+    ExtUtils::MakeMaker: 7.78
 build_requires:
     perl:                5.008
 test_requires:
     Test::More:          0.88
     Test::Warnings:      0
 test_recommends:
-    Test::More:          1.302219
+    Test::More:          1.302224
 resources:
     license:             http://dev.perl.org/licenses/
     repository:          https://github.com/Tux/System-Info
